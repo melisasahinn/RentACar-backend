@@ -1,0 +1,5 @@
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\DataAccess\obj\Release\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

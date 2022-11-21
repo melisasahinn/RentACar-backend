@@ -1,0 +1,5 @@
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\Business\obj\Release\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\Business\obj\Release\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\Business\obj\Release\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\Business\obj\Release\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\Business\obj\Release\netstandard2.0\Business.csproj.CoreCompileInputs.cache

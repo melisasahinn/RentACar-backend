@@ -1,0 +1,8 @@
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cache
+C:\Users\mmeli\OneDrive\Masaüstü\Kamp(Engin_Demirog)\ReCaptProje\WebAPI\obj\Release\netcoreapp3.1\WebAPI.RazorAssemblyInfo.cs
