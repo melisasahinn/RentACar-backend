@@ -9,7 +9,7 @@ Genel olarak proje katmanlı mimariye uygun şekilde tasarlanıp OOP olarak enti
 WebAPI
 ConsoleUI
 
-#Prerequest
+ # Prerequest
  <ul>
  <li>EntityFrameworkCore.SqlServer 3.1.11</li>
  <li>FluentValidation 7.3.3</li>
